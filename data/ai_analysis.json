@@ -1,0 +1,2730 @@
+[
+  {
+    "name_ja": "風力発電技術者",
+    "name_en": "Wind turbine technicians",
+    "bls_growth": 50,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/wind-turbine-technicians.htm"
+  },
+  {
+    "name_ja": "太陽光パネル設置工",
+    "name_en": "Solar photovoltaic installers",
+    "bls_growth": 42,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/solar-photovoltaic-installers.htm"
+  },
+  {
+    "name_ja": "作業療法士助手",
+    "name_en": "Occupational therapy assistants and aides",
+    "bls_growth": 18,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/occupational-therapy-assistants-and-aides.htm"
+  },
+  {
+    "name_ja": "訪問介護・在宅ケアワーカー",
+    "name_en": "Home health and personal care aides",
+    "bls_growth": 17,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm"
+  },
+  {
+    "name_ja": "理学療法士助手",
+    "name_en": "Physical therapist assistants and aides",
+    "bls_growth": 16,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/physical-therapist-assistants-and-aides.htm"
+  },
+  {
+    "name_ja": "精神科医療技術者・補助員",
+    "name_en": "Psychiatric technicians and aides",
+    "bls_growth": 16,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/psychiatric-technicians-and-aides.htm"
+  },
+  {
+    "name_ja": "マッサージ療法士",
+    "name_en": "Massage therapists",
+    "bls_growth": 15,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/massage-therapists.htm"
+  },
+  {
+    "name_ja": "作業療法士",
+    "name_en": "Occupational therapists",
+    "bls_growth": 14,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/occupational-therapists.htm"
+  },
+  {
+    "name_ja": "産業機械整備士・保全工",
+    "name_en": "Industrial machinery mechanics, machinery maintenance workers, and millwrights",
+    "bls_growth": 13,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/industrial-machinery-mechanics-and-maintenance-workers-and-millwrights.htm"
+  },
+  {
+    "name_ja": "医療機器整備士",
+    "name_en": "Medical equipment repairers",
+    "bls_growth": 13,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/medical-equipment-repairers.htm"
+  },
+  {
+    "name_ja": "義肢装具士",
+    "name_en": "Orthotists and prosthetists",
+    "bls_growth": 13,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/orthotists-and-prosthetists.htm"
+  },
+  {
+    "name_ja": "フィットネストレーナー・インストラクター",
+    "name_en": "Fitness trainers and instructors",
+    "bls_growth": 12,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/fitness-trainers-and-instructors.htm"
+  },
+  {
+    "name_ja": "医療助手",
+    "name_en": "Medical assistants",
+    "bls_growth": 12,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/medical-assistants.htm"
+  },
+  {
+    "name_ja": "呼吸療法士",
+    "name_en": "Respiratory therapists",
+    "bls_growth": 12,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/respiratory-therapists.htm"
+  },
+  {
+    "name_ja": "動物ケア・サービス従事者",
+    "name_en": "Animal care and service workers",
+    "bls_growth": 11,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/animal-care-and-service-workers.htm"
+  },
+  {
+    "name_ja": "アスレティックトレーナー",
+    "name_en": "Athletic trainers",
+    "bls_growth": 11,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/athletic-trainers.htm"
+  },
+  {
+    "name_ja": "地域保健ワーカー",
+    "name_en": "Community health workers",
+    "bls_growth": 11,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/community-health-workers.htm"
+  },
+  {
+    "name_ja": "理学療法士",
+    "name_en": "Physical therapists",
+    "bls_growth": 11,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/physical-therapists.htm"
+  },
+  {
+    "name_ja": "半導体製造技術者",
+    "name_en": "Semiconductor processing technicians",
+    "bls_growth": 11,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/production/semiconductor-processing-technicians.htm"
+  },
+  {
+    "name_ja": "カイロプラクター",
+    "name_en": "Chiropractors",
+    "bls_growth": 10,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/chiropractors.htm"
+  },
+  {
+    "name_ja": "獣医師",
+    "name_en": "Veterinarians",
+    "bls_growth": 10,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/veterinarians.htm"
+  },
+  {
+    "name_ja": "聴覚士",
+    "name_en": "Audiologists",
+    "bls_growth": 9,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/audiologists.htm"
+  },
+  {
+    "name_ja": "電気工事士",
+    "name_en": "Electricians",
+    "bls_growth": 9,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/electricians.htm"
+  },
+  {
+    "name_ja": "運動生理士",
+    "name_en": "Exercise physiologists",
+    "bls_growth": 9,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm"
+  },
+  {
+    "name_ja": "客室乗務員（フライトアテンダント）",
+    "name_en": "Flight attendants",
+    "bls_growth": 9,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/flight-attendants.htm"
+  },
+  {
+    "name_ja": "動物看護補助・実験動物管理士",
+    "name_en": "Veterinary assistants and laboratory animal caretakers",
+    "bls_growth": 9,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/veterinary-assistants-and-laboratory-animal-caretakers.htm"
+  },
+  {
+    "name_ja": "動物看護師・獣医技術者",
+    "name_en": "Veterinary technologists and technicians",
+    "bls_growth": 9,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/veterinary-technologists-and-technicians.htm"
+  },
+  {
+    "name_ja": "配送ドライバー・ルートセールス",
+    "name_en": "Delivery truck drivers and driver/sales workers",
+    "bls_growth": 8,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/delivery-truck-drivers-and-driver-sales-workers.htm"
+  },
+  {
+    "name_ja": "空調・冷凍設備整備士",
+    "name_en": "Heating, air conditioning, and refrigeration mechanics and installers",
+    "bls_growth": 8,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm"
+  },
+  {
+    "name_ja": "検眼士（オプトメトリスト）",
+    "name_en": "Optometrists",
+    "bls_growth": 8,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/optometrists.htm"
+  },
+  {
+    "name_ja": "ツアー・旅行ガイド",
+    "name_en": "Tour and travel guides",
+    "bls_growth": 8,
+    "ai_score": 4,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/tour-and-travel-guides.htm"
+  },
+  {
+    "name_ja": "シェフ・料理長",
+    "name_en": "Chefs and head cooks",
+    "bls_growth": 7,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/food-preparation-and-serving/chefs-and-head-cooks.htm"
+  },
+  {
+    "name_ja": "建設作業員・助手",
+    "name_en": "Construction laborers and helpers",
+    "bls_growth": 7,
+    "ai_score": 1,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/construction-laborers-and-helpers.htm"
+  },
+  {
+    "name_ja": "歯科衛生士",
+    "name_en": "Dental hygienists",
+    "bls_growth": 7,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/dental-hygienists.htm"
+  },
+  {
+    "name_ja": "電力線設置・修理工",
+    "name_en": "Electrical power-line installers and repairers",
+    "bls_growth": 7,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/line-installers-and-repairers.htm"
+  },
+  {
+    "name_ja": "ネイリスト・フットケア士",
+    "name_en": "Manicurists and pedicurists",
+    "bls_growth": 7,
+    "ai_score": 2,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/manicurists-and-pedicurists.htm"
+  },
+  {
+    "name_ja": "スキンケアスペシャリスト（エステティシャン）",
+    "name_en": "Skincare specialists",
+    "bls_growth": 7,
+    "ai_score": 3,
+    "category": "growing",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/skincare-specialists.htm"
+  },
+  {
+    "name_ja": "DTPオペレーター",
+    "name_en": "Desktop publishers",
+    "bls_growth": -12,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/desktop-publishers.htm"
+  },
+  {
+    "name_ja": "債権回収・集金担当者",
+    "name_en": "Bill and account collectors",
+    "bls_growth": -10,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/bill-and-account-collectors.htm"
+  },
+  {
+    "name_ja": "一般事務職員",
+    "name_en": "General office clerks",
+    "bls_growth": -7,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/general-office-clerks.htm"
+  },
+  {
+    "name_ja": "簿記・経理補助員",
+    "name_en": "Bookkeeping, accounting, and auditing clerks",
+    "bls_growth": -6,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/bookkeeping-accounting-and-auditing-clerks.htm"
+  },
+  {
+    "name_ja": "コンピュータプログラマー",
+    "name_en": "Computer programmers",
+    "bls_growth": -6,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-programmers.htm"
+  },
+  {
+    "name_ja": "顧客サービス担当者",
+    "name_en": "Customer service representatives",
+    "bls_growth": -5,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/customer-service-representatives.htm"
+  },
+  {
+    "name_ja": "金融事務員",
+    "name_en": "Financial clerks",
+    "bls_growth": -5,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/financial-clerks.htm"
+  },
+  {
+    "name_ja": "医療記録転記専門職",
+    "name_en": "Medical transcriptionists",
+    "bls_growth": -5,
+    "ai_score": 10,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/medical-transcriptionists.htm"
+  },
+  {
+    "name_ja": "調査・リサーチャー",
+    "name_en": "Survey researchers",
+    "bls_growth": -5,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/survey-researchers.htm"
+  },
+  {
+    "name_ja": "コスト見積担当者",
+    "name_en": "Cost estimators",
+    "bls_growth": -4,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/cost-estimators.htm"
+  },
+  {
+    "name_ja": "ネットワーク・コンピュータシステム管理者",
+    "name_en": "Network and computer systems administrators",
+    "bls_growth": -4,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/network-and-computer-systems-administrators.htm"
+  },
+  {
+    "name_ja": "コンピュータサポート専門員",
+    "name_en": "Computer support specialists",
+    "bls_growth": -3,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm"
+  },
+  {
+    "name_ja": "地理学者",
+    "name_en": "Geographers",
+    "bls_growth": -3,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/geographers.htm"
+  },
+  {
+    "name_ja": "保険引受審査担当者",
+    "name_en": "Insurance underwriters",
+    "bls_growth": -3,
+    "ai_score": 9,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/insurance-underwriters.htm"
+  },
+  {
+    "name_ja": "政治学者",
+    "name_en": "Political scientists",
+    "bls_growth": -3,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/political-scientists.htm"
+  },
+  {
+    "name_ja": "税務調査員・徴税担当者",
+    "name_en": "Tax examiners and collectors, and revenue agents",
+    "bls_growth": -2,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/tax-examiners-and-collectors-and-revenue-agents.htm"
+  },
+  {
+    "name_ja": "モデル",
+    "name_en": "Models",
+    "bls_growth": -1,
+    "ai_score": 8,
+    "category": "at_risk",
+    "bls_url": "https://www.bls.gov/ooh/sales/models.htm"
+  },
+  {
+    "name_ja": "コンピュータ・情報科学研究者",
+    "name_en": "Computer and information research scientists",
+    "bls_growth": 20,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm"
+  },
+  {
+    "name_ja": "裁判所速記者・同時字幕技術者",
+    "name_en": "Court reporters and simultaneous captioners",
+    "bls_growth": 0,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/legal/court-reporters.htm"
+  },
+  {
+    "name_ja": "データサイエンティスト",
+    "name_en": "Data scientists",
+    "bls_growth": 34,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/math/data-scientists.htm"
+  },
+  {
+    "name_ja": "データベース管理者・設計者",
+    "name_en": "Database administrators and architects",
+    "bls_growth": 4,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/database-administrators.htm"
+  },
+  {
+    "name_ja": "製図士（ドラフター）",
+    "name_en": "Drafters",
+    "bls_growth": 0,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/drafters.htm"
+  },
+  {
+    "name_ja": "エコノミスト",
+    "name_en": "Economists",
+    "bls_growth": 1,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/economists.htm"
+  },
+  {
+    "name_ja": "編集者",
+    "name_en": "Editors",
+    "bls_growth": 1,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/editors.htm"
+  },
+  {
+    "name_ja": "ファイナンシャルアナリスト",
+    "name_en": "Financial analysts",
+    "bls_growth": 6,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/financial-analysts.htm"
+  },
+  {
+    "name_ja": "グラフィックデザイナー",
+    "name_en": "Graphic designers",
+    "bls_growth": 2,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/graphic-designers.htm"
+  },
+  {
+    "name_ja": "通訳・翻訳家",
+    "name_en": "Interpreters and translators",
+    "bls_growth": 2,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/interpreters-and-translators.htm"
+  },
+  {
+    "name_ja": "市場調査アナリスト",
+    "name_en": "Market research analysts",
+    "bls_growth": 7,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm"
+  },
+  {
+    "name_ja": "数学者・統計学者",
+    "name_en": "Mathematicians and statisticians",
+    "bls_growth": 8,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm"
+  },
+  {
+    "name_ja": "医療記録専門員",
+    "name_en": "Medical records specialists",
+    "bls_growth": 7,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/medical-records-and-health-information-technicians.htm"
+  },
+  {
+    "name_ja": "オペレーションズリサーチアナリスト",
+    "name_en": "Operations research analysts",
+    "bls_growth": 21,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/math/operations-research-analysts.htm"
+  },
+  {
+    "name_ja": "パラリーガル・法律事務補助員",
+    "name_en": "Paralegals and legal assistants",
+    "bls_growth": 0,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/legal/paralegals-and-legal-assistants.htm"
+  },
+  {
+    "name_ja": "ソフトウェア開発者・QAエンジニア",
+    "name_en": "Software developers, quality assurance analysts, and testers",
+    "bls_growth": 15,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm"
+  },
+  {
+    "name_ja": "特殊効果アーティスト・アニメーター",
+    "name_en": "Special effects artists and animators",
+    "bls_growth": 2,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/multimedia-artists-and-animators.htm"
+  },
+  {
+    "name_ja": "テクニカルライター",
+    "name_en": "Technical writers",
+    "bls_growth": 1,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/technical-writers.htm"
+  },
+  {
+    "name_ja": "旅行代理店スタッフ",
+    "name_en": "Travel agents",
+    "bls_growth": 2,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/travel-agents.htm"
+  },
+  {
+    "name_ja": "Webデベロッパー・デジタルデザイナー",
+    "name_en": "Web developers and digital designers",
+    "bls_growth": 7,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm"
+  },
+  {
+    "name_ja": "ライター・著述家",
+    "name_en": "Writers and authors",
+    "bls_growth": 4,
+    "ai_score": 9,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/writers-and-authors.htm"
+  },
+  {
+    "name_ja": "会計士・監査士",
+    "name_en": "Accountants and auditors",
+    "bls_growth": 5,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm"
+  },
+  {
+    "name_ja": "アクチュアリー（保険数理士）",
+    "name_en": "Actuaries",
+    "bls_growth": 22,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/math/actuaries.htm"
+  },
+  {
+    "name_ja": "広告・プロモーション・マーケティングマネージャー",
+    "name_en": "Advertising, promotions, and marketing managers",
+    "bls_growth": 6,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/advertising-promotions-and-marketing-managers.htm"
+  },
+  {
+    "name_ja": "アートディレクター",
+    "name_en": "Art directors",
+    "bls_growth": 4,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/art-directors.htm"
+  },
+  {
+    "name_ja": "大気科学者・気象学者",
+    "name_en": "Atmospheric scientists, including meteorologists",
+    "bls_growth": 1,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/atmospheric-scientists-including-meteorologists.htm"
+  },
+  {
+    "name_ja": "予算アナリスト",
+    "name_en": "Budget analysts",
+    "bls_growth": 1,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/budget-analysts.htm"
+  },
+  {
+    "name_ja": "地図製作者・写真測量士",
+    "name_en": "Cartographers and photogrammetrists",
+    "bls_growth": 6,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/cartographers-and-photogrammetrists.htm"
+  },
+  {
+    "name_ja": "給与・福利厚生・職務分析専門員",
+    "name_en": "Compensation, benefits, and job analysis specialists",
+    "bls_growth": 5,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/compensation-benefits-and-job-analysis-specialists.htm"
+  },
+  {
+    "name_ja": "コンプライアンス担当者",
+    "name_en": "Compliance officers",
+    "bls_growth": 3,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/compliance-officers.htm"
+  },
+  {
+    "name_ja": "コンピュータハードウェアエンジニア",
+    "name_en": "Computer hardware engineers",
+    "bls_growth": 7,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm"
+  },
+  {
+    "name_ja": "ネットワークアーキテクト",
+    "name_en": "Computer network architects",
+    "bls_growth": 12,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-network-architects.htm"
+  },
+  {
+    "name_ja": "コンピュータシステムアナリスト",
+    "name_en": "Computer systems analysts",
+    "bls_growth": 9,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/computer-systems-analysts.htm"
+  },
+  {
+    "name_ja": "金融検査官",
+    "name_en": "Financial examiners",
+    "bls_growth": 19,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/financial-examiners.htm"
+  },
+  {
+    "name_ja": "医療情報技術者・医療記録管理者",
+    "name_en": "Health information technologists and medical registrars",
+    "bls_growth": 15,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/health-information-technologists-and-medical-registrars.htm"
+  },
+  {
+    "name_ja": "インダストリアルデザイナー",
+    "name_en": "Industrial designers",
+    "bls_growth": 3,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/industrial-designers.htm"
+  },
+  {
+    "name_ja": "情報セキュリティアナリスト",
+    "name_en": "Information security analysts",
+    "bls_growth": 29,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm"
+  },
+  {
+    "name_ja": "弁護士",
+    "name_en": "Lawyers",
+    "bls_growth": 4,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/legal/lawyers.htm"
+  },
+  {
+    "name_ja": "融資担当者（ローンオフィサー）",
+    "name_en": "Loan officers",
+    "bls_growth": 2,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/loan-officers.htm"
+  },
+  {
+    "name_ja": "医療線量測定士",
+    "name_en": "Medical dosimetrists",
+    "bls_growth": 3,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/medical-dosimetrists.htm"
+  },
+  {
+    "name_ja": "広報専門員",
+    "name_en": "Public relations specialists",
+    "bls_growth": 5,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/public-relations-specialists.htm"
+  },
+  {
+    "name_ja": "秘書・行政アシスタント",
+    "name_en": "Secretaries and administrative assistants",
+    "bls_growth": 0,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/secretaries-and-administrative-assistants.htm"
+  },
+  {
+    "name_ja": "証券・商品・金融サービス営業担当",
+    "name_en": "Securities, commodities, and financial services sales agents",
+    "bls_growth": 3,
+    "ai_score": 8,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/securities-commodities-and-financial-services-sales-agents.htm"
+  },
+  {
+    "name_ja": "俳優",
+    "name_en": "Actors",
+    "bls_growth": 0,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/actors.htm"
+  },
+  {
+    "name_ja": "成人基礎・高校教育・ESL教師",
+    "name_en": "Adult basic and secondary education and ESL teachers",
+    "bls_growth": -14,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/adult-literacy-and-ged-teachers.htm"
+  },
+  {
+    "name_ja": "広告営業担当者",
+    "name_en": "Advertising sales agents",
+    "bls_growth": -6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/advertising-sales-agents.htm"
+  },
+  {
+    "name_ja": "航空宇宙エンジニア",
+    "name_en": "Aerospace engineers",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineers.htm"
+  },
+  {
+    "name_ja": "航空管制官",
+    "name_en": "Air traffic controllers",
+    "bls_growth": 1,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/air-traffic-controllers.htm"
+  },
+  {
+    "name_ja": "アナウンサー・DJ",
+    "name_en": "Announcers and DJs",
+    "bls_growth": -2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/announcers.htm"
+  },
+  {
+    "name_ja": "仲裁人・調停者",
+    "name_en": "Arbitrators, mediators, and conciliators",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/legal/arbitrators-mediators-and-conciliators.htm"
+  },
+  {
+    "name_ja": "建築家",
+    "name_en": "Architects",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/architects.htm"
+  },
+  {
+    "name_ja": "建築・エンジニアリング管理職",
+    "name_en": "Architectural and engineering managers",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/architectural-and-engineering-managers.htm"
+  },
+  {
+    "name_ja": "生化学者・生物物理学者",
+    "name_en": "Biochemists and biophysicists",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/biochemists-and-biophysicists.htm"
+  },
+  {
+    "name_ja": "バイオエンジニア・生体医工学者",
+    "name_en": "Bioengineers and biomedical engineers",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm"
+  },
+  {
+    "name_ja": "レジ係",
+    "name_en": "Cashiers",
+    "bls_growth": -10,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/cashiers.htm"
+  },
+  {
+    "name_ja": "化学者・材料科学者",
+    "name_en": "Chemists and materials scientists",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/chemists-and-materials-scientists.htm"
+  },
+  {
+    "name_ja": "損害保険査定員・鑑定士",
+    "name_en": "Claims adjusters, appraisers, examiners, and investigators",
+    "bls_growth": -5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/claims-adjusters-appraisers-examiners-and-investigators.htm"
+  },
+  {
+    "name_ja": "給与・福利厚生マネージャー",
+    "name_en": "Compensation and benefits managers",
+    "bls_growth": 0,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/compensation-and-benefits-managers.htm"
+  },
+  {
+    "name_ja": "情報システム管理職",
+    "name_en": "Computer and information systems managers",
+    "bls_growth": 15,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/computer-and-information-systems-managers.htm"
+  },
+  {
+    "name_ja": "クレジット・借金カウンセラー",
+    "name_en": "Credit counselors",
+    "bls_growth": 3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/credit-counselors.htm"
+  },
+  {
+    "name_ja": "電気・電子エンジニア",
+    "name_en": "Electrical and electronics engineers",
+    "bls_growth": 7,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm"
+  },
+  {
+    "name_ja": "疫学者",
+    "name_en": "Epidemiologists",
+    "bls_growth": 16,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/epidemiologists.htm"
+  },
+  {
+    "name_ja": "ファッションデザイナー",
+    "name_en": "Fashion designers",
+    "bls_growth": 2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/fashion-designers.htm"
+  },
+  {
+    "name_ja": "映像編集者・カメラマン",
+    "name_en": "Film and video editors and camera operators",
+    "bls_growth": 3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/film-and-video-editors-and-camera-operators.htm"
+  },
+  {
+    "name_ja": "財務マネージャー",
+    "name_en": "Financial managers",
+    "bls_growth": 15,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/financial-managers.htm"
+  },
+  {
+    "name_ja": "資金調達担当者（ファンドレイザー）",
+    "name_en": "Fundraisers",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/fundraisers.htm"
+  },
+  {
+    "name_ja": "高校教師",
+    "name_en": "High school teachers",
+    "bls_growth": -2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/high-school-teachers.htm"
+  },
+  {
+    "name_ja": "歴史学者",
+    "name_en": "Historians",
+    "bls_growth": 2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/historians.htm"
+  },
+  {
+    "name_ja": "人事部門マネージャー",
+    "name_en": "Human resources managers",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/human-resources-managers.htm"
+  },
+  {
+    "name_ja": "人事専門員",
+    "name_en": "Human resources specialists",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/human-resources-specialists.htm"
+  },
+  {
+    "name_ja": "産業エンジニア",
+    "name_en": "Industrial engineers",
+    "bls_growth": 11,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineers.htm"
+  },
+  {
+    "name_ja": "情報受付事務員",
+    "name_en": "Information clerks",
+    "bls_growth": -3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/information-clerks.htm"
+  },
+  {
+    "name_ja": "教育カリキュラム調整者",
+    "name_en": "Instructional coordinators",
+    "bls_growth": 1,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/instructional-coordinators.htm"
+  },
+  {
+    "name_ja": "保険営業担当者",
+    "name_en": "Insurance sales agents",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/insurance-sales-agents.htm"
+  },
+  {
+    "name_ja": "インテリアデザイナー",
+    "name_en": "Interior designers",
+    "bls_growth": 3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/interior-designers.htm"
+  },
+  {
+    "name_ja": "裁判官・審判官",
+    "name_en": "Judges and hearing officers",
+    "bls_growth": 1,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/legal/judges-and-hearing-officers.htm"
+  },
+  {
+    "name_ja": "労働関係専門員",
+    "name_en": "Labor relations specialists",
+    "bls_growth": 0,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/labor-relations-specialists.htm"
+  },
+  {
+    "name_ja": "造園設計士",
+    "name_en": "Landscape architects",
+    "bls_growth": 3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/landscape-architects.htm"
+  },
+  {
+    "name_ja": "司書・図書館情報専門家",
+    "name_en": "Librarians and library media specialists",
+    "bls_growth": 2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/librarians.htm"
+  },
+  {
+    "name_ja": "図書館技術員・補助員",
+    "name_en": "Library technicians and assistants",
+    "bls_growth": -7,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/library-technicians-and-assistants.htm"
+  },
+  {
+    "name_ja": "ロジスティクス専門家",
+    "name_en": "Logisticians",
+    "bls_growth": 17,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/logisticians.htm"
+  },
+  {
+    "name_ja": "経営コンサルタント・マネジメントアナリスト",
+    "name_en": "Management analysts",
+    "bls_growth": 9,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/management-analysts.htm"
+  },
+  {
+    "name_ja": "海洋エンジニア・船舶設計士",
+    "name_en": "Marine engineers and naval architects",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/marine-engineers-and-naval-architects.htm"
+  },
+  {
+    "name_ja": "在庫・物流記録事務員",
+    "name_en": "Material recording clerks",
+    "bls_growth": -6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/material-recording-clerks.htm"
+  },
+  {
+    "name_ja": "材料エンジニア",
+    "name_en": "Materials engineers",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/materials-engineers.htm"
+  },
+  {
+    "name_ja": "機械エンジニア",
+    "name_en": "Mechanical engineers",
+    "bls_growth": 9,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineers.htm"
+  },
+  {
+    "name_ja": "医学研究者",
+    "name_en": "Medical scientists",
+    "bls_growth": 9,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/medical-scientists.htm"
+  },
+  {
+    "name_ja": "音楽監督・作曲家",
+    "name_en": "Music directors and composers",
+    "bls_growth": 0,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/music-directors-and-composers.htm"
+  },
+  {
+    "name_ja": "自然科学部門マネージャー",
+    "name_en": "Natural sciences managers",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/natural-sciences-managers.htm"
+  },
+  {
+    "name_ja": "ニュースアナリスト・記者・ジャーナリスト",
+    "name_en": "News analysts, reporters, and journalists",
+    "bls_growth": -4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/reporters-correspondents-and-broadcast-news-analysts.htm"
+  },
+  {
+    "name_ja": "原子力エンジニア",
+    "name_en": "Nuclear engineers",
+    "bls_growth": -1,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/nuclear-engineers.htm"
+  },
+  {
+    "name_ja": "個人資産アドバイザー",
+    "name_en": "Personal financial advisors",
+    "bls_growth": 10,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/personal-financial-advisors.htm"
+  },
+  {
+    "name_ja": "写真家",
+    "name_en": "Photographers",
+    "bls_growth": 2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/photographers.htm"
+  },
+  {
+    "name_ja": "物理学者・天文学者",
+    "name_en": "Physicists and astronomers",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm"
+  },
+  {
+    "name_ja": "大学・専門学校管理職",
+    "name_en": "Postsecondary education administrators",
+    "bls_growth": 2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/postsecondary-education-administrators.htm"
+  },
+  {
+    "name_ja": "大学・専門学校教員",
+    "name_en": "Postsecondary teachers",
+    "bls_growth": 7,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/postsecondary-teachers.htm"
+  },
+  {
+    "name_ja": "プロデューサー・ディレクター",
+    "name_en": "Producers and directors",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/producers-and-directors.htm"
+  },
+  {
+    "name_ja": "プロジェクト管理専門員",
+    "name_en": "Project management specialists",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/project-management-specialists.htm"
+  },
+  {
+    "name_ja": "不動産鑑定士",
+    "name_en": "Property appraisers and assessors",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/appraisers-and-assessors-of-real-estate.htm"
+  },
+  {
+    "name_ja": "広報・資金調達マネージャー",
+    "name_en": "Public relations and fundraising managers",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/public-relations-managers.htm"
+  },
+  {
+    "name_ja": "緊急通報オペレーター（110・119等）",
+    "name_en": "Public safety telecommunicators",
+    "bls_growth": 3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/police-fire-and-ambulance-dispatchers.htm"
+  },
+  {
+    "name_ja": "購買マネージャー・バイヤー",
+    "name_en": "Purchasing managers, buyers, and purchasing agents",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/purchasing-managers-buyers-and-purchasing-agents.htm"
+  },
+  {
+    "name_ja": "受付担当者",
+    "name_en": "Receptionists",
+    "bls_growth": 0,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/receptionists.htm"
+  },
+  {
+    "name_ja": "セールスエンジニア",
+    "name_en": "Sales engineers",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/sales-engineers.htm"
+  },
+  {
+    "name_ja": "営業マネージャー",
+    "name_en": "Sales managers",
+    "bls_growth": 5,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/sales-managers.htm"
+  },
+  {
+    "name_ja": "舞台美術・展示デザイナー",
+    "name_en": "Set and exhibit designers",
+    "bls_growth": 2,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/set-and-exhibit-designers.htm"
+  },
+  {
+    "name_ja": "社会学者",
+    "name_en": "Sociologists",
+    "bls_growth": 4,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/sociologists.htm"
+  },
+  {
+    "name_ja": "銀行窓口係",
+    "name_en": "Tellers",
+    "bls_growth": -13,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/tellers.htm"
+  },
+  {
+    "name_ja": "人材育成・研修マネージャー",
+    "name_en": "Training and development managers",
+    "bls_growth": 6,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/training-and-development-managers.htm"
+  },
+  {
+    "name_ja": "研修・能力開発専門員",
+    "name_en": "Training and development specialists",
+    "bls_growth": 11,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/training-and-development-specialists.htm"
+  },
+  {
+    "name_ja": "家庭教師・個別指導教師",
+    "name_en": "Tutors",
+    "bls_growth": 1,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/tutors.htm"
+  },
+  {
+    "name_ja": "都市・地域計画家",
+    "name_en": "Urban and regional planners",
+    "bls_growth": 3,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/urban-and-regional-planners.htm"
+  },
+  {
+    "name_ja": "卸売・製造業営業担当",
+    "name_en": "Wholesale and manufacturing sales representatives",
+    "bls_growth": 1,
+    "ai_score": 7,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/wholesale-and-manufacturing-sales-representatives.htm"
+  },
+  {
+    "name_ja": "農業・食品科学者",
+    "name_en": "Agricultural and food scientists",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-scientists.htm"
+  },
+  {
+    "name_ja": "農業エンジニア",
+    "name_en": "Agricultural engineers",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/agricultural-engineers.htm"
+  },
+  {
+    "name_ja": "アーキビスト・学芸員・博物館従事者",
+    "name_en": "Archivists, curators, and museum workers",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/curators-museum-technicians-and-conservators.htm"
+  },
+  {
+    "name_ja": "放送・音響・映像技術者",
+    "name_en": "Broadcast, sound, and video technicians",
+    "bls_growth": 1,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/media-and-communication/broadcast-and-sound-engineering-technicians.htm"
+  },
+  {
+    "name_ja": "化学エンジニア",
+    "name_en": "Chemical engineers",
+    "bls_growth": 3,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/chemical-engineers.htm"
+  },
+  {
+    "name_ja": "土木工学技術者",
+    "name_en": "Civil engineering technologists and technicians",
+    "bls_growth": 2,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineering-technicians.htm"
+  },
+  {
+    "name_ja": "土木エンジニア",
+    "name_en": "Civil engineers",
+    "bls_growth": 5,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/civil-engineers.htm"
+  },
+  {
+    "name_ja": "工芸家・ファインアーティスト",
+    "name_en": "Craft and fine artists",
+    "bls_growth": 0,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/craft-and-fine-artists.htm"
+  },
+  {
+    "name_ja": "栄養士・管理栄養士",
+    "name_en": "Dietitians and nutritionists",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/dietitians-and-nutritionists.htm"
+  },
+  {
+    "name_ja": "小中高校校長",
+    "name_en": "Elementary, middle, and high school principals",
+    "bls_growth": -2,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/elementary-middle-and-high-school-principals.htm"
+  },
+  {
+    "name_ja": "緊急事態管理ディレクター",
+    "name_en": "Emergency management directors",
+    "bls_growth": 3,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/emergency-management-directors.htm"
+  },
+  {
+    "name_ja": "環境エンジニア",
+    "name_en": "Environmental engineers",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineers.htm"
+  },
+  {
+    "name_ja": "環境科学者・環境専門家",
+    "name_en": "Environmental scientists and specialists",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-scientists-and-specialists.htm"
+  },
+  {
+    "name_ja": "遺伝カウンセラー",
+    "name_en": "Genetic counselors",
+    "bls_growth": 9,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/genetic-counselors.htm"
+  },
+  {
+    "name_ja": "健康教育スペシャリスト",
+    "name_en": "Health education specialists",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/health-educators.htm"
+  },
+  {
+    "name_ja": "水文学者",
+    "name_en": "Hydrologists",
+    "bls_growth": 0,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/hydrologists.htm"
+  },
+  {
+    "name_ja": "産業工学技術者",
+    "name_en": "Industrial engineering technologists and technicians",
+    "bls_growth": 2,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/industrial-engineering-technicians.htm"
+  },
+  {
+    "name_ja": "製造・生産管理マネージャー",
+    "name_en": "Industrial production managers",
+    "bls_growth": 2,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/industrial-production-managers.htm"
+  },
+  {
+    "name_ja": "幼稚園・小学校教師",
+    "name_en": "Kindergarten and elementary school teachers",
+    "bls_growth": -2,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/kindergarten-and-elementary-school-teachers.htm"
+  },
+  {
+    "name_ja": "医療・保健サービスマネージャー",
+    "name_en": "Medical and health services managers",
+    "bls_growth": 23,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/medical-and-health-services-managers.htm"
+  },
+  {
+    "name_ja": "会議・イベントプランナー",
+    "name_en": "Meeting, convention, and event planners",
+    "bls_growth": 5,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/business-and-financial/meeting-convention-and-event-planners.htm"
+  },
+  {
+    "name_ja": "微生物学者",
+    "name_en": "Microbiologists",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/microbiologists.htm"
+  },
+  {
+    "name_ja": "中学校教師",
+    "name_en": "Middle school teachers",
+    "bls_growth": -2,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/middle-school-teachers.htm"
+  },
+  {
+    "name_ja": "採鉱・地質エンジニア",
+    "name_en": "Mining and geological engineers",
+    "bls_growth": 1,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/mining-and-geological-engineers.htm"
+  },
+  {
+    "name_ja": "石油エンジニア",
+    "name_en": "Petroleum engineers",
+    "bls_growth": 1,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/petroleum-engineers.htm"
+  },
+  {
+    "name_ja": "発電所オペレーター・配電担当者",
+    "name_en": "Power plant operators, distributors, and dispatchers",
+    "bls_growth": -10,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/power-plant-operators-distributors-and-dispatchers.htm"
+  },
+  {
+    "name_ja": "私立探偵・調査員",
+    "name_en": "Private detectives and investigators",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/protective-service/private-detectives-and-investigators.htm"
+  },
+  {
+    "name_ja": "保護観察官・矯正処遇専門員",
+    "name_en": "Probation officers and correctional treatment specialists",
+    "bls_growth": 3,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/probation-officers-and-correctional-treatment-specialists.htm"
+  },
+  {
+    "name_ja": "不動産・コミュニティ管理者",
+    "name_en": "Property, real estate, and community association managers",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/property-real-estate-and-community-association-managers.htm"
+  },
+  {
+    "name_ja": "心理士・心理学者",
+    "name_en": "Psychologists",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/psychologists.htm"
+  },
+  {
+    "name_ja": "不動産ブローカー・営業担当",
+    "name_en": "Real estate brokers and sales agents",
+    "bls_growth": 3,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/real-estate-brokers-and-sales-agents.htm"
+  },
+  {
+    "name_ja": "学校カウンセラー・進路指導員",
+    "name_en": "School and career counselors and advisors",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/school-and-career-counselors.htm"
+  },
+  {
+    "name_ja": "社会・地域サービス管理職",
+    "name_en": "Social and community service managers",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/social-and-community-service-managers.htm"
+  },
+  {
+    "name_ja": "経営幹部・最高責任者",
+    "name_en": "Top executives",
+    "bls_growth": 4,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/top-executives.htm"
+  },
+  {
+    "name_ja": "輸送・倉庫・流通管理職",
+    "name_en": "Transportation, storage, and distribution managers",
+    "bls_growth": 6,
+    "ai_score": 6,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/transportation-storage-and-distribution-managers.htm"
+  },
+  {
+    "name_ja": "総務・施設管理マネージャー",
+    "name_en": "Administrative services and facilities managers",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/administrative-services-managers.htm"
+  },
+  {
+    "name_ja": "航空宇宙エンジニアリング技術者",
+    "name_en": "Aerospace engineering and operations technologists and technicians",
+    "bls_growth": 8,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/aerospace-engineering-and-operations-technicians.htm"
+  },
+  {
+    "name_ja": "航空機パイロット（民間・商業）",
+    "name_en": "Airline and commercial pilots",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/airline-and-commercial-pilots.htm"
+  },
+  {
+    "name_ja": "人類学者・考古学者",
+    "name_en": "Anthropologists and archeologists",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/anthropologists-and-archeologists.htm"
+  },
+  {
+    "name_ja": "生物学技術者",
+    "name_en": "Biological technicians",
+    "bls_growth": 3,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/biological-technicians.htm"
+  },
+  {
+    "name_ja": "化学技術者",
+    "name_en": "Chemical technicians",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/chemical-technicians.htm"
+  },
+  {
+    "name_ja": "臨床検査技師",
+    "name_en": "Clinical laboratory technologists and technicians",
+    "bls_growth": 2,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm"
+  },
+  {
+    "name_ja": "コンシェルジュ",
+    "name_en": "Concierges",
+    "bls_growth": 2,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/concierges.htm"
+  },
+  {
+    "name_ja": "建設・建物検査員",
+    "name_en": "Construction and building inspectors",
+    "bls_growth": -1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/construction-and-building-inspectors.htm"
+  },
+  {
+    "name_ja": "建設プロジェクトマネージャー",
+    "name_en": "Construction managers",
+    "bls_growth": 9,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/construction-managers.htm"
+  },
+  {
+    "name_ja": "歯科・眼科技工士・医療機器製作者",
+    "name_en": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+    "bls_growth": -1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/dental-and-ophthalmic-laboratory-technicians-and-medical-appliance-technicians.htm"
+  },
+  {
+    "name_ja": "超音波診断技師",
+    "name_en": "Diagnostic medical sonographers",
+    "bls_growth": 13,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/diagnostic-medical-sonographers.htm"
+  },
+  {
+    "name_ja": "電気・電子工学技術者",
+    "name_en": "Electrical and electronic engineering technologists and technicians",
+    "bls_growth": 1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineering-technicians.htm"
+  },
+  {
+    "name_ja": "エンターテインメント・レクリエーション管理職",
+    "name_en": "Entertainment and recreation managers",
+    "bls_growth": 8,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/entertainment-and-recreation-managers.htm"
+  },
+  {
+    "name_ja": "環境工学技術者",
+    "name_en": "Environmental engineering technologists and technicians",
+    "bls_growth": 1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/environmental-engineering-technicians.htm"
+  },
+  {
+    "name_ja": "法科学技術者（フォレンジック）",
+    "name_en": "Forensic science technicians",
+    "bls_growth": 13,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/forensic-science-technicians.htm"
+  },
+  {
+    "name_ja": "地質・水文学技術者",
+    "name_en": "Geological and hydrologic technicians",
+    "bls_growth": 1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/geological-and-petroleum-technicians.htm"
+  },
+  {
+    "name_ja": "地球科学者",
+    "name_en": "Geoscientists",
+    "bls_growth": 3,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/geoscientists.htm"
+  },
+  {
+    "name_ja": "衛生安全エンジニア",
+    "name_en": "Health and safety engineers",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/health-and-safety-engineers.htm"
+  },
+  {
+    "name_ja": "大型・トレーラートラック運転手",
+    "name_en": "Heavy and tractor-trailer truck drivers",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm"
+  },
+  {
+    "name_ja": "宿泊施設マネージャー",
+    "name_en": "Lodging managers",
+    "bls_growth": 3,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/lodging-managers.htm"
+  },
+  {
+    "name_ja": "夫婦・家族療法士",
+    "name_en": "Marriage and family therapists",
+    "bls_growth": 13,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/marriage-and-family-therapists.htm"
+  },
+  {
+    "name_ja": "機械工学技術者",
+    "name_en": "Mechanical engineering technologists and technicians",
+    "bls_growth": 0,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/mechanical-engineering-technicians.htm"
+  },
+  {
+    "name_ja": "原子力技術者",
+    "name_en": "Nuclear technicians",
+    "bls_growth": -8,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/nuclear-technicians.htm"
+  },
+  {
+    "name_ja": "麻酔看護師・助産師・上級看護師",
+    "name_en": "Nurse anesthetists, nurse midwives, and nurse practitioners",
+    "bls_growth": 35,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm"
+  },
+  {
+    "name_ja": "労働安全衛生専門家・技術者",
+    "name_en": "Occupational health and safety specialists and technicians",
+    "bls_growth": 12,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/occupational-health-and-safety-specialists-and-technicians.htm"
+  },
+  {
+    "name_ja": "薬剤師",
+    "name_en": "Pharmacists",
+    "bls_growth": 5,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/pharmacists.htm"
+  },
+  {
+    "name_ja": "医師助手（フィジシャンアシスタント）",
+    "name_en": "Physician assistants",
+    "bls_growth": 20,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/physician-assistants.htm"
+  },
+  {
+    "name_ja": "医師・外科医",
+    "name_en": "Physicians and surgeons",
+    "bls_growth": 3,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm"
+  },
+  {
+    "name_ja": "保育所・幼稚園長",
+    "name_en": "Preschool and childcare center directors",
+    "bls_growth": -3,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/preschool-and-childcare-center-directors.htm"
+  },
+  {
+    "name_ja": "品質管理検査員",
+    "name_en": "Quality control inspectors",
+    "bls_growth": 0,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/quality-control-inspectors.htm"
+  },
+  {
+    "name_ja": "リハビリカウンセラー",
+    "name_en": "Rehabilitation counselors",
+    "bls_growth": 1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/rehabilitation-counselors.htm"
+  },
+  {
+    "name_ja": "警備員・カジノ監視員",
+    "name_en": "Security guards and gambling surveillance officers",
+    "bls_growth": 0,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/protective-service/security-guards.htm"
+  },
+  {
+    "name_ja": "社会・福祉サービス補助員",
+    "name_en": "Social and human service assistants",
+    "bls_growth": 6,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/social-and-human-service-assistants.htm"
+  },
+  {
+    "name_ja": "特別支援教育教師",
+    "name_en": "Special education teachers",
+    "bls_growth": -1,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/special-education-teachers.htm"
+  },
+  {
+    "name_ja": "言語聴覚士",
+    "name_en": "Speech-language pathologists",
+    "bls_growth": 15,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/speech-language-pathologists.htm"
+  },
+  {
+    "name_ja": "薬物依存・精神保健カウンセラー",
+    "name_en": "Substance abuse, behavioral disorder, and mental health counselors",
+    "bls_growth": 17,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/substance-abuse-behavioral-disorder-and-mental-health-counselors.htm"
+  },
+  {
+    "name_ja": "測量・地図作成技術者",
+    "name_en": "Surveying and mapping technicians",
+    "bls_growth": 5,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/surveying-and-mapping-technicians.htm"
+  },
+  {
+    "name_ja": "測量士",
+    "name_en": "Surveyors",
+    "bls_growth": 4,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/surveyors.htm"
+  },
+  {
+    "name_ja": "タクシー・シャトルドライバー",
+    "name_en": "Taxi drivers, shuttle drivers, and chauffeurs",
+    "bls_growth": 9,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/taxi-drivers-and-chauffeurs.htm"
+  },
+  {
+    "name_ja": "審判員・スポーツオフィシャル",
+    "name_en": "Umpires, referees, and other sports officials",
+    "bls_growth": 6,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/umpires-referees-and-other-sports-officials.htm"
+  },
+  {
+    "name_ja": "上下水道処理施設オペレーター",
+    "name_en": "Water and wastewater treatment plant and system operators",
+    "bls_growth": -7,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/water-and-wastewater-treatment-plant-and-system-operators.htm"
+  },
+  {
+    "name_ja": "動物学者・野生生物学者",
+    "name_en": "Zoologists and wildlife biologists",
+    "bls_growth": 2,
+    "ai_score": 5,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/zoologists-and-wildlife-biologists.htm"
+  },
+  {
+    "name_ja": "農業・食品科学技術者",
+    "name_en": "Agricultural and food science technicians",
+    "bls_growth": 5,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/agricultural-and-food-science-technicians.htm"
+  },
+  {
+    "name_ja": "バス運転手",
+    "name_en": "Bus drivers",
+    "bls_growth": 1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/bus-drivers.htm"
+  },
+  {
+    "name_ja": "計測校正技術者",
+    "name_en": "Calibration technologists and technicians",
+    "bls_growth": 5,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/calibration-technologists-and-technicians.htm"
+  },
+  {
+    "name_ja": "心臓血管技術者",
+    "name_en": "Cardiovascular technologists and technicians",
+    "bls_growth": 3,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/cardiovascular-technologists-and-technicians.htm"
+  },
+  {
+    "name_ja": "職業・技術教育教師",
+    "name_en": "Career and technical education teachers",
+    "bls_growth": -1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/career-and-technical-education-teachers.htm"
+  },
+  {
+    "name_ja": "コーチ・スカウト",
+    "name_en": "Coaches and scouts",
+    "bls_growth": 6,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/coaches-and-scouts.htm"
+  },
+  {
+    "name_ja": "自然保護科学者・林業専門家",
+    "name_en": "Conservation scientists and foresters",
+    "bls_growth": 3,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/conservation-scientists.htm"
+  },
+  {
+    "name_ja": "電気機械・メカトロニクス技術者",
+    "name_en": "Electro-mechanical and mechatronics technologists and technicians",
+    "bls_growth": 1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/architecture-and-engineering/electro-mechanical-technicians.htm"
+  },
+  {
+    "name_ja": "環境科学・環境保護技術者",
+    "name_en": "Environmental science and protection technicians",
+    "bls_growth": 4,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/life-physical-and-social-science/environmental-science-and-protection-technicians.htm"
+  },
+  {
+    "name_ja": "農場主・牧場主・農業経営者",
+    "name_en": "Farmers, ranchers, and other agricultural managers",
+    "bls_growth": -1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/farmers-ranchers-and-other-agricultural-managers.htm"
+  },
+  {
+    "name_ja": "消防検査官",
+    "name_en": "Fire inspectors",
+    "bls_growth": 6,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/protective-service/fire-inspectors-and-investigators.htm"
+  },
+  {
+    "name_ja": "飲食店・フードサービスマネージャー",
+    "name_en": "Food service managers",
+    "bls_growth": 6,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/management/food-service-managers.htm"
+  },
+  {
+    "name_ja": "ギャンブル施設従事者",
+    "name_en": "Gambling services workers",
+    "bls_growth": 0,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/gaming-services-occupations.htm"
+  },
+  {
+    "name_ja": "宝飾職人・貴金属加工士",
+    "name_en": "Jewelers and precious stone and metal workers",
+    "bls_growth": -5,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/jewelers-and-precious-stone-and-metal-workers.htm"
+  },
+  {
+    "name_ja": "准看護師・実務看護師",
+    "name_en": "Licensed practical and licensed vocational nurses",
+    "bls_growth": 3,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/licensed-practical-and-licensed-vocational-nurses.htm"
+  },
+  {
+    "name_ja": "機械工・金型工",
+    "name_en": "Machinists and tool and die makers",
+    "bls_growth": -2,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/machinists-and-tool-and-die-makers.htm"
+  },
+  {
+    "name_ja": "荷役機械オペレーター",
+    "name_en": "Material moving machine operators",
+    "bls_growth": 1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/material-moving-machine-operators.htm"
+  },
+  {
+    "name_ja": "金属・プラスチック加工機械オペレーター",
+    "name_en": "Metal and plastic machine workers",
+    "bls_growth": -7,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/metal-and-plastic-machine-workers.htm"
+  },
+  {
+    "name_ja": "音楽家・歌手",
+    "name_en": "Musicians and singers",
+    "bls_growth": 1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/musicians-and-singers.htm"
+  },
+  {
+    "name_ja": "核医学技術者",
+    "name_en": "Nuclear medicine technologists",
+    "bls_growth": 3,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/nuclear-medicine-technologists.htm"
+  },
+  {
+    "name_ja": "眼鏡士（オプティシャン）",
+    "name_en": "Opticians",
+    "bls_growth": 3,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/opticians-dispensing.htm"
+  },
+  {
+    "name_ja": "薬局技術者",
+    "name_en": "Pharmacy technicians",
+    "bls_growth": 6,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/pharmacy-technicians.htm"
+  },
+  {
+    "name_ja": "足病医",
+    "name_en": "Podiatrists",
+    "bls_growth": 2,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/podiatrists.htm"
+  },
+  {
+    "name_ja": "警察官・刑事",
+    "name_en": "Police and detectives",
+    "bls_growth": 3,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/protective-service/police-and-detectives.htm"
+  },
+  {
+    "name_ja": "放射線療法士",
+    "name_en": "Radiation therapists",
+    "bls_growth": 2,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/radiation-therapists.htm"
+  },
+  {
+    "name_ja": "放射線技師・MRI技術者",
+    "name_en": "Radiologic and MRI technologists",
+    "bls_growth": 5,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/radiologic-technologists.htm"
+  },
+  {
+    "name_ja": "鉄道乗務員・保線作業員",
+    "name_en": "Railroad workers",
+    "bls_growth": 1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/railroad-occupations.htm"
+  },
+  {
+    "name_ja": "登録看護師",
+    "name_en": "Registered nurses",
+    "bls_growth": 5,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/registered-nurses.htm"
+  },
+  {
+    "name_ja": "小売販売員",
+    "name_en": "Retail sales workers",
+    "bls_growth": 0,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/sales/retail-sales-workers.htm"
+  },
+  {
+    "name_ja": "ソーシャルワーカー",
+    "name_en": "Social workers",
+    "bls_growth": 6,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/community-and-social-service/social-workers.htm"
+  },
+  {
+    "name_ja": "教師補助員（ティーチャーズエイド）",
+    "name_en": "Teacher assistants",
+    "bls_growth": -1,
+    "ai_score": 4,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/teacher-assistants.htm"
+  },
+  {
+    "name_ja": "農業従事者",
+    "name_en": "Agricultural workers",
+    "bls_growth": -3,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/agricultural-workers.htm"
+  },
+  {
+    "name_ja": "航空機・航空電子機器整備士",
+    "name_en": "Aircraft and avionics equipment mechanics and technicians",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/aircraft-and-avionics-equipment-mechanics-and-technicians.htm"
+  },
+  {
+    "name_ja": "組立・製造作業員",
+    "name_en": "Assemblers and fabricators",
+    "bls_growth": -1,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/assemblers-and-fabricators.htm"
+  },
+  {
+    "name_ja": "自動車整備士",
+    "name_en": "Automotive service technicians and mechanics",
+    "bls_growth": 4,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-service-technicians-and-mechanics.htm"
+  },
+  {
+    "name_ja": "建設重機オペレーター",
+    "name_en": "Construction equipment operators",
+    "bls_growth": 4,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/construction-equipment-operators.htm"
+  },
+  {
+    "name_ja": "調理師",
+    "name_en": "Cooks",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/food-preparation-and-serving/cooks.htm"
+  },
+  {
+    "name_ja": "刑務官・法廷執行官",
+    "name_en": "Correctional officers and bailiffs",
+    "bls_growth": -7,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/protective-service/correctional-officers.htm"
+  },
+  {
+    "name_ja": "歯科助手",
+    "name_en": "Dental assistants",
+    "bls_growth": 6,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/dental-assistants.htm"
+  },
+  {
+    "name_ja": "歯科医師",
+    "name_en": "Dentists",
+    "bls_growth": 4,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/dentists.htm"
+  },
+  {
+    "name_ja": "ディーゼルエンジン整備士",
+    "name_en": "Diesel service technicians and mechanics",
+    "bls_growth": 2,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/diesel-service-technicians-and-mechanics.htm"
+  },
+  {
+    "name_ja": "電気・電子機器設置・修理工",
+    "name_en": "Electrical and electronics installers and repairers",
+    "bls_growth": 0,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/electrical-and-electronics-installers-and-repairers.htm"
+  },
+  {
+    "name_ja": "エレベーター・エスカレーター設置・修理士",
+    "name_en": "Elevator and escalator installers and repairers",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/elevator-installers-and-repairers.htm"
+  },
+  {
+    "name_ja": "救急救命士・パラメディック",
+    "name_en": "EMTs and paramedics",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/emts-and-paramedics.htm"
+  },
+  {
+    "name_ja": "消防士",
+    "name_en": "Firefighters",
+    "bls_growth": 3,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/protective-service/firefighters.htm"
+  },
+  {
+    "name_ja": "フローラルデザイナー（生花師）",
+    "name_en": "Floral designers",
+    "bls_growth": -6,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/arts-and-design/floral-designers.htm"
+  },
+  {
+    "name_ja": "飲食サービス従事者",
+    "name_en": "Food and beverage serving and related workers",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-and-beverage-serving-and-related-workers.htm"
+  },
+  {
+    "name_ja": "食品加工機器オペレーター",
+    "name_en": "Food processing equipment workers",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/food-and-tobacco-processing-workers.htm"
+  },
+  {
+    "name_ja": "葬儀業従事者",
+    "name_en": "Funeral service workers",
+    "bls_growth": 4,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/funeral-service-occupations.htm"
+  },
+  {
+    "name_ja": "大型車両・移動機器整備士",
+    "name_en": "Heavy vehicle and mobile equipment service technicians",
+    "bls_growth": 6,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heavy-vehicle-and-mobile-equipment-service-technicians.htm"
+  },
+  {
+    "name_ja": "石油・天然ガス関連作業員",
+    "name_en": "Oil and gas workers",
+    "bls_growth": 1,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/oil-and-gas-workers.htm"
+  },
+  {
+    "name_ja": "塗装・コーティング工",
+    "name_en": "Painting and coating workers",
+    "bls_growth": 1,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/painting-and-coating-workers.htm"
+  },
+  {
+    "name_ja": "郵便業務従事者",
+    "name_en": "Postal service workers",
+    "bls_growth": -5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/office-and-administrative-support/postal-service-workers.htm"
+  },
+  {
+    "name_ja": "保育士・幼稚園教諭",
+    "name_en": "Preschool teachers",
+    "bls_growth": 4,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/education-training-and-library/preschool-teachers.htm"
+  },
+  {
+    "name_ja": "レクリエーション指導員",
+    "name_en": "Recreation workers",
+    "bls_growth": 4,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/recreation-workers.htm"
+  },
+  {
+    "name_ja": "レクリエーション療法士",
+    "name_en": "Recreational therapists",
+    "bls_growth": 3,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/recreational-therapists.htm"
+  },
+  {
+    "name_ja": "板金工",
+    "name_en": "Sheet metal workers",
+    "bls_growth": 2,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/sheet-metal-workers.htm"
+  },
+  {
+    "name_ja": "定置設備エンジニア・ボイラーオペレーター",
+    "name_en": "Stationary engineers and boiler operators",
+    "bls_growth": 2,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/stationary-engineers-and-boiler-operators.htm"
+  },
+  {
+    "name_ja": "外科手術助手・手術技術者",
+    "name_en": "Surgical assistants and technologists",
+    "bls_growth": 5,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/surgical-technologists.htm"
+  },
+  {
+    "name_ja": "通信技術者",
+    "name_en": "Telecommunications technicians",
+    "bls_growth": -3,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/telecommunications-equipment-installers-and-repairers-except-line-installers.htm"
+  },
+  {
+    "name_ja": "ウェイター・ウェイトレス",
+    "name_en": "Waiters and waitresses",
+    "bls_growth": -1,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/food-preparation-and-serving/waiters-and-waitresses.htm"
+  },
+  {
+    "name_ja": "水上輸送従事者",
+    "name_en": "Water transportation workers",
+    "bls_growth": 1,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/water-transportation-occupations.htm"
+  },
+  {
+    "name_ja": "木工職人",
+    "name_en": "Woodworkers",
+    "bls_growth": -2,
+    "ai_score": 3,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/woodworkers.htm"
+  },
+  {
+    "name_ja": "自動車ボディ・ガラス修理士",
+    "name_en": "Automotive body and glass repairers",
+    "bls_growth": 2,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/automotive-body-and-glass-repairers.htm"
+  },
+  {
+    "name_ja": "パン職人・ベーカー",
+    "name_en": "Bakers",
+    "bls_growth": 6,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/bakers.htm"
+  },
+  {
+    "name_ja": "理容師・美容師・コスメトロジスト",
+    "name_en": "Barbers, hairstylists, and cosmetologists",
+    "bls_growth": 5,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm"
+  },
+  {
+    "name_ja": "バーテンダー",
+    "name_en": "Bartenders",
+    "bls_growth": 6,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/food-preparation-and-serving/bartenders.htm"
+  },
+  {
+    "name_ja": "ボイラー技士",
+    "name_en": "Boilermakers",
+    "bls_growth": -2,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/boilermakers.htm"
+  },
+  {
+    "name_ja": "食肉処理・精肉業者",
+    "name_en": "Butchers",
+    "bls_growth": 1,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/butchers-and-meat-cutters.htm"
+  },
+  {
+    "name_ja": "大工・木工職人",
+    "name_en": "Carpenters",
+    "bls_growth": 4,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/carpenters.htm"
+  },
+  {
+    "name_ja": "保育士・チャイルドケアワーカー",
+    "name_en": "Childcare workers",
+    "bls_growth": -3,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/personal-care-and-service/childcare-workers.htm"
+  },
+  {
+    "name_ja": "ダンサー・振付師",
+    "name_en": "Dancers and choreographers",
+    "bls_growth": 5,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/dancers-and-choreographers.htm"
+  },
+  {
+    "name_ja": "漁業・狩猟従事者",
+    "name_en": "Fishing and hunting workers",
+    "bls_growth": -5,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/fishers-and-related-fishing-workers.htm"
+  },
+  {
+    "name_ja": "調理補助員",
+    "name_en": "Food preparation workers",
+    "bls_growth": -3,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/food-preparation-and-serving/food-preparation-workers.htm"
+  },
+  {
+    "name_ja": "林業・自然保護作業員",
+    "name_en": "Forest and conservation workers",
+    "bls_growth": -5,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/forest-and-conservation-workers.htm"
+  },
+  {
+    "name_ja": "設備総合保守・修理作業員",
+    "name_en": "General maintenance and repair workers",
+    "bls_growth": 4,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/general-maintenance-and-repair-workers.htm"
+  },
+  {
+    "name_ja": "ガラス工事士",
+    "name_en": "Glaziers",
+    "bls_growth": 3,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/glaziers.htm"
+  },
+  {
+    "name_ja": "手作業労働者・物品運搬作業員",
+    "name_en": "Hand laborers and material movers",
+    "bls_growth": 4,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/transportation-and-material-moving/hand-laborers-and-material-movers.htm"
+  },
+  {
+    "name_ja": "有害物質除去作業員",
+    "name_en": "Hazardous materials removal workers",
+    "bls_growth": 1,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/hazardous-materials-removal-workers.htm"
+  },
+  {
+    "name_ja": "断熱材施工士",
+    "name_en": "Insulation workers",
+    "bls_growth": 4,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/insulation-workers.htm"
+  },
+  {
+    "name_ja": "林業作業員（伐採）",
+    "name_en": "Logging workers",
+    "bls_growth": -2,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/farming-fishing-and-forestry/logging-workers.htm"
+  },
+  {
+    "name_ja": "石工・左官工",
+    "name_en": "Masonry workers",
+    "bls_growth": 2,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/brickmasons-blockmasons-and-stonemasons.htm"
+  },
+  {
+    "name_ja": "看護補助員・看護助手",
+    "name_en": "Nursing assistants and orderlies",
+    "bls_growth": 2,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/nursing-assistants.htm"
+  },
+  {
+    "name_ja": "害虫駆除業者",
+    "name_en": "Pest control workers",
+    "bls_growth": 5,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/pest-control-workers.htm"
+  },
+  {
+    "name_ja": "採血士（フレボトミスト）",
+    "name_en": "Phlebotomists",
+    "bls_growth": 6,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/healthcare/phlebotomists.htm"
+  },
+  {
+    "name_ja": "配管工・パイプ工",
+    "name_en": "Plumbers, pipefitters, and steamfitters",
+    "bls_growth": 4,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/plumbers-pipefitters-and-steamfitters.htm"
+  },
+  {
+    "name_ja": "小型エンジン整備士",
+    "name_en": "Small engine mechanics",
+    "bls_growth": 4,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/small-engine-mechanics.htm"
+  },
+  {
+    "name_ja": "溶接工・切断工",
+    "name_en": "Welders, cutters, solderers, and brazers",
+    "bls_growth": 2,
+    "ai_score": 2,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/production/welders-cutters-solderers-and-brazers.htm"
+  },
+  {
+    "name_ja": "アスリート・スポーツ競技者",
+    "name_en": "Athletes and sports competitors",
+    "bls_growth": 5,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/entertainment-and-sports/athletes-and-sports-competitors.htm"
+  },
+  {
+    "name_ja": "石膏ボード・天井タイル施工士",
+    "name_en": "Drywall installers, ceiling tile installers, and tapers",
+    "bls_growth": 4,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/drywall-and-ceiling-tile-installers-and-tapers.htm"
+  },
+  {
+    "name_ja": "床材設置工・タイル・石材工",
+    "name_en": "Flooring installers and tile and stone setters",
+    "bls_growth": 6,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/tile-and-marble-setters.htm"
+  },
+  {
+    "name_ja": "緑地・造園維持管理作業員",
+    "name_en": "Grounds maintenance workers",
+    "bls_growth": 4,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/grounds-maintenance-workers.htm"
+  },
+  {
+    "name_ja": "鉄骨組立工",
+    "name_en": "Ironworkers",
+    "bls_growth": 4,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/structural-iron-and-steel-workers.htm"
+  },
+  {
+    "name_ja": "清掃員・ビルメンテナンス",
+    "name_en": "Janitors and building cleaners",
+    "bls_growth": 2,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/building-and-grounds-cleaning/janitors-and-building-cleaners.htm"
+  },
+  {
+    "name_ja": "塗装工（建設・保守）",
+    "name_en": "Painters, construction and maintenance",
+    "bls_growth": 4,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/painters-construction-and-maintenance.htm"
+  },
+  {
+    "name_ja": "屋根工事士",
+    "name_en": "Roofers",
+    "bls_growth": 6,
+    "ai_score": 1,
+    "category": "middle",
+    "bls_url": "https://www.bls.gov/ooh/construction-and-extraction/roofers.htm"
+  }
+]

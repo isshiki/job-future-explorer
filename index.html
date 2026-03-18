@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI職業影響度チェッカー</title>
+  <meta name="description" content="米国BLSデータとAI影響度スコアをもとに341職種の将来性を分析した職業一覧。検索・絞り込み・並べ替えができます。">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>AI職業影響度チェッカー</h1>
+    <p>米国BLS（2024〜2034年予測）× AI影響度スコアによる 341職種 分析 ／ 出典: <a href="https://www.bls.gov/ooh/" target="_blank" rel="noopener" style="color:#adb5bd">BLS Occupational Outlook Handbook</a></p>
+  </div>
+</header>
+
+<main>
+  <!-- 説明ボックス -->
+  <div class="info-box">
+    <div class="info-box-title">このページの見方</div>
+    <ul class="info-box-list">
+      <li><strong>AI影響度</strong>は、AIによって仕事の内容が変化する可能性の目安（0〜10）です。数値が高いほど変化しやすいことを示します。</li>
+      <li><strong>雇用増減率</strong>は、米国労働統計局（BLS）による2024〜2034年の10年間の雇用予測です。日本の数値ではありません。</li>
+      <li><strong>伸びる</strong>は、AI影響度が低く（4以下）かつ雇用が増加傾向（+7%以上）の職業です。</li>
+      <li><strong>中間</strong>は、伸びる・危機のいずれにも該当しないその他の職業です。</li>
+      <li><strong>危機</strong>は、AI影響度が高く（8以上）かつ雇用が減少傾向（0%未満）の職業です。</li>
+      <li>いずれの分類も、職業の消滅を意味するものではありません。</li>
+    </ul>
+  </div>
+
+  <div class="controls">
+    <!-- 検索 -->
+    <div class="search-wrap">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <input id="search" type="search" placeholder="職業名を検索（日本語・英語）" autocomplete="off">
+    </div>
+
+    <!-- カテゴリフィルター -->
+    <div class="filter-tabs">
+      <button class="active" data-cat="all">全て</button>
+      <button class="tab-growing" data-cat="growing">伸びる</button>
+      <button class="tab-middle"  data-cat="middle">中間</button>
+      <button class="tab-at_risk" data-cat="at_risk">危機</button>
+    </div>
+
+    <!-- CSVダウンロード -->
+    <div class="actions">
+      <button id="csv-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+          <polyline points="7 10 12 15 17 10"/>
+          <line x1="12" y1="15" x2="12" y2="3"/>
+        </svg>
+        CSVダウンロード
+      </button>
+    </div>
+  </div>
+
+  <p class="summary" id="count"></p>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th class="sortable" data-sort="name_ja">
+            職業名<span class="sort-icon"></span>
+          </th>
+          <th class="sortable" data-sort="bls_growth">
+            <span class="th-label" title="米国の今後10年間（2024〜2034年）の雇用予測（BLS）">雇用増減率 <span class="th-hint">?</span></span><span class="sort-icon"></span>
+          </th>
+          <th class="sortable" data-sort="ai_score">
+            <span class="th-label" title="AIによって仕事の内容が変化する可能性の目安（0〜10）">AI影響度 <span class="th-hint">?</span></span><span class="sort-icon"></span>
+          </th>
+          <th>分類</th>
+        </tr>
+      </thead>
+      <tbody id="tbody">
+        <tr><td colspan="4" style="padding:2rem;text-align:center;color:#6c757d;">読み込み中…</td></tr>
+      </tbody>
+    </table>
+    <p id="no-results">条件に一致する職業が見つかりませんでした。</p>
+  </div>
+</main>
+
+<footer>
+  <p>
+    AI影響度スコアはLLM（Gemini Flash）による推計であり、消滅予測ではありません。
+    雇用増減率は米国労働統計局の2024〜2034年予測です（日本の数値ではありません）。<br>
+    データ出典: <a href="https://www.bls.gov/ooh/" target="_blank" rel="noopener">BLS Occupational Outlook Handbook</a>
+    ／ スコア参考: <a href="https://karpathy.ai/jobs/" target="_blank" rel="noopener">karpathy.ai/jobs</a>
+    ／ ソースコード: <a href="https://github.com/isshiki/job-future-explorer" target="_blank" rel="noopener">GitHub</a>
+  </p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
