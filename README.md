@@ -78,4 +78,4 @@ Andrej Karpathy 氏による可視化ツール（karpathy/jobs）
 
 ## ライセンス
 
-[MIT](LICENSE)
+[Apache License 2.0](LICENSE)
