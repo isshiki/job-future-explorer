@@ -32,12 +32,24 @@ Andrej Karpathy 氏による可視化ツール（karpathy/jobs）
 本プロジェクト（日本語化・3分類・AI影響度スコア追加）
 ```
 
+## 出典・データ利用について（重要）
+
+本プロジェクトは、米国労働統計局（BLS）の [BLS Occupational Outlook Handbook](https://www.bls.gov/ooh/) の公開データ、および Andrej Karpathy 氏の [karpathy/jobs](https://github.com/karpathy/jobs) ／ [US Job Market Visualizer](https://karpathy.ai/jobs/) で用いられているAI影響度スコアを基に、日本語化・再構成および独自分類を行った非公式の可視化プロジェクトです。
+
+- 雇用増減率などの職業統計データ: [BLS Occupational Outlook Handbook](https://www.bls.gov/ooh/)
+- AI影響度スコア: [karpathy/jobs](https://github.com/karpathy/jobs) で生成されたLLMによる推計値を参照
+- 日本語訳、3分類、UI、検索・絞り込み機能:  本プロジェクト独自
+
+本プロジェクトは Andrej Karpathy 氏および BLS の公式プロジェクトではありません。  
+AI影響度は「仕事がどの程度変化しうるか」の目安であり、職業の消滅を意味するものではありません。  
+また、雇用増減率は米国データであり、日本国内の状況を直接示すものではありません。
+
 ### 各データの説明
 
 | 項目 | 内容 | 出典 |
 |------|------|------|
 | 雇用増減率 | 米国の2024〜2034年の雇用予測（%） | [BLS Occupational Outlook Handbook](https://www.bls.gov/ooh/) |
-| AI影響度 | AIによって仕事内容が変化する可能性（0〜10） | LLM（Gemini Flash）による推計。[karpathy/jobs](https://github.com/karpathy/jobs) のスコアを参照 |
+| AI影響度 | AIによって仕事内容が変化する可能性（0〜10） | LLM（Gemini 3 Flash）による推計。[karpathy/jobs](https://github.com/karpathy/jobs) のスコアを参照 |
 | 職業名（日本語） | 英語職業名の日本語訳 | 本プロジェクトによる翻訳・独自分析 |
 | 3分類 | 伸びる・中間・危機 | 本プロジェクトによる基準に基づく分類 |
 
